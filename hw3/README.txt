@@ -1,0 +1,1 @@
+All that is needed to run my code is Jupyter Notebook with a Python 3 kernel
